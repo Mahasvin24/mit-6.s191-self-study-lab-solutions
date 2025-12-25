@@ -8,3 +8,5 @@ tqdm
 scipy
 ipython
 opencv-python
+torchvision
+torchsummary
