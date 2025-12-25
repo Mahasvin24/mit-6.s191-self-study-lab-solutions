@@ -1,0 +1,10 @@
+torch
+numpy
+matplotlib
+python-dotenv
+comet-ml
+mitdeeplearning
+tqdm
+scipy
+ipython
+opencv-python
